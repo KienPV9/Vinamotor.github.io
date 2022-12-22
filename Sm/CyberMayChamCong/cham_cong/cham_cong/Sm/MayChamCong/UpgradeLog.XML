@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MayChamCong">
+</Property><Property Name="Solution File" Value="G:\Cyber_KH\Tri_Viet\Tri_viet_NB\Sm\cham_cong\Sm\MayChamCong\MayChamCong.sln">
+</Property><Property Name="User Options File" Value="G:\Cyber_KH\Tri_Viet\Tri_viet_NB\Sm\cham_cong\Sm\MayChamCong\MayChamCong.suo">
+</Property><Property Name="Date" Value="Monday, January 13, 2020">
+</Property><Property Name="Time" Value="11:21 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MayChamCong.sln" Description="File successfully backed up as G:\Cyber_KH\Tri_Viet\Tri_viet_NB\Sm\cham_cong\Sm\MayChamCong\Backup\MayChamCong.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MayChamCong.suo" Description="File successfully backed up as G:\Cyber_KH\Tri_Viet\Tri_viet_NB\Sm\cham_cong\Sm\MayChamCong\Backup\MayChamCong.suo">
+</Event><Event ErrorLevel="0" Project="MayChamCong" Source="MayChamCong\MayChamCong.vbproj" Description="Project file successfully backed up as G:\Cyber_KH\Tri_Viet\Tri_viet_NB\Sm\cham_cong\Sm\MayChamCong\Backup\MayChamCong\MayChamCong.vbproj">
+</Event><Event ErrorLevel="0" Project="MayChamCong" Source="MayChamCong\MayChamCong.vbproj.user" Description="Project user file successfully backed up as G:\Cyber_KH\Tri_Viet\Tri_viet_NB\Sm\cham_cong\Sm\MayChamCong\Backup\MayChamCong\MayChamCong.vbproj.user">
+</Event><Event ErrorLevel="0" Project="MayChamCong" Source="MayChamCong\Chamcong.vb" Description="File successfully backed up as G:\Cyber_KH\Tri_Viet\Tri_viet_NB\Sm\cham_cong\Sm\MayChamCong\Backup\MayChamCong\Chamcong.vb">
+</Event><Event ErrorLevel="0" Project="MayChamCong" Source="MayChamCong\My Project\AssemblyInfo.vb" Description="File successfully backed up as G:\Cyber_KH\Tri_Viet\Tri_viet_NB\Sm\cham_cong\Sm\MayChamCong\Backup\MayChamCong\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="MayChamCong" Source="MayChamCong\My Project\Application.Designer.vb" Description="File successfully backed up as G:\Cyber_KH\Tri_Viet\Tri_viet_NB\Sm\cham_cong\Sm\MayChamCong\Backup\MayChamCong\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="MayChamCong" Source="MayChamCong\My Project\Resources.Designer.vb" Description="File successfully backed up as G:\Cyber_KH\Tri_Viet\Tri_viet_NB\Sm\cham_cong\Sm\MayChamCong\Backup\MayChamCong\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="MayChamCong" Source="MayChamCong\My Project\Settings.Designer.vb" Description="File successfully backed up as G:\Cyber_KH\Tri_Viet\Tri_viet_NB\Sm\cham_cong\Sm\MayChamCong\Backup\MayChamCong\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="MayChamCong" Source="MayChamCong\My Project\Application.myapp" Description="File successfully backed up as G:\Cyber_KH\Tri_Viet\Tri_viet_NB\Sm\cham_cong\Sm\MayChamCong\Backup\MayChamCong\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="MayChamCong" Source="MayChamCong\My Project\Settings.settings" Description="File successfully backed up as G:\Cyber_KH\Tri_Viet\Tri_viet_NB\Sm\cham_cong\Sm\MayChamCong\Backup\MayChamCong\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MayChamCong" Source="MayChamCong\My Project\Resources.resx" Description="File successfully backed up as G:\Cyber_KH\Tri_Viet\Tri_viet_NB\Sm\cham_cong\Sm\MayChamCong\Backup\MayChamCong\My Project\Resources.resx">
+</Event><Event ErrorLevel="1" Project="MayChamCong" Source="MayChamCong\MayChamCong.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="MayChamCong" Source="MayChamCong\MayChamCong.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MayChamCong" Source="MayChamCong\MayChamCong.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MayChamCong.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MayChamCong.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MayChamCong" Source="MayChamCong\MayChamCong.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

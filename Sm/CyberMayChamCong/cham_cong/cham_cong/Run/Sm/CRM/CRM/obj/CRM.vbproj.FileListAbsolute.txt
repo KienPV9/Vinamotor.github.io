@@ -1,0 +1,13 @@
+E:\MinhDc\Cham_Cong\project\Run\Sm\CRM\CRM\obj\Debug\ResolveAssemblyReference.cache
+E:\MinhDc\Cham_Cong\project\Run\Sm\CRM\CRM\obj\Debug\CRM.FrmMain.resources
+E:\MinhDc\Cham_Cong\project\Run\Sm\CRM\CRM\obj\Debug\CRM.Resources.resources
+E:\MinhDc\Cham_Cong\project\Run\Sm\CRM\CRM\obj\Debug\CRM.vbproj.GenerateResource.Cache
+E:\MinhDc\Cham_Cong\project\Run\Sm\CRM\CRM\obj\Debug\CRM.exe
+E:\MinhDc\Cham_Cong\project\Run\Sm\CRM\CRM\obj\Debug\CRM.xml
+E:\MinhDc\Cham_Cong\project\Run\Sm\CRM\CRM\obj\Debug\CRM.pdb
+E:\MinhDc\Cham_Cong\project\Run\CRM.exe
+E:\MinhDc\Cham_Cong\project\Run\CRM.pdb
+E:\MinhDc\Cham_Cong\project\Run\CRM.xml
+E:\Cybersoft\CyberERP_KH\KH_Duoc_VP\Cyberapp9_DuocVP\cham_cong\Run\Sm\CRM\CRM\obj\Debug\CRM.exe
+E:\Cybersoft\CyberERP_KH\KH_Duoc_VP\Cyberapp9_DuocVP\cham_cong\Run\Sm\CRM\CRM\obj\Debug\CRM.xml
+E:\Cybersoft\CyberERP_KH\KH_Duoc_VP\Cyberapp9_DuocVP\cham_cong\Run\Sm\CRM\CRM\obj\Debug\CRM.pdb

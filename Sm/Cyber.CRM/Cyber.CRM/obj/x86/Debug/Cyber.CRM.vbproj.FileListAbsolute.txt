@@ -1,0 +1,58 @@
+E:\Cybersoft\CyberERP_KH\KH_Duoc_VP\Cyberapp9_DuocVP\Cyber.CRM.exe.config
+E:\Cybersoft\CyberERP_KH\KH_Duoc_VP\Cyberapp9_DuocVP\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Cybersoft\CyberERP_KH\KH_Duoc_VP\Cyberapp9_DuocVP\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.Form1.resources
+E:\Cybersoft\CyberERP_KH\KH_Duoc_VP\Cyberapp9_DuocVP\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.Resources.resources
+E:\Cybersoft\CyberERP_KH\KH_Duoc_VP\Cyberapp9_DuocVP\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Cybersoft\CyberERP_KH\KH_Duoc_VP\Cyberapp9_DuocVP\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Cybersoft\CyberERP_KH\KH_Duoc_VP\Cyberapp9_DuocVP\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.exe.licenses
+E:\Cybersoft\CyberERP_KH\KH_Duoc_VP\Cyberapp9_DuocVP\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.exe
+E:\Cybersoft\CyberERP_KH\KH_Duoc_VP\Cyberapp9_DuocVP\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.xml
+E:\Cybersoft\CyberERP_KH\KH_Duoc_VP\Cyberapp9_DuocVP\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.pdb
+E:\Cybersoft\CyberERP_KH\KH_Duoc_VP\Cyberapp9_DuocVP\Cyber.CRM.exe
+E:\Cybersoft\CyberERP_KH\KH_Duoc_VP\Cyberapp9_DuocVP\Cyber.CRM.pdb
+E:\Cybersoft\CyberERP_KH\KH_Duoc_VP\Cyberapp9_DuocVP\Cyber.CRM.xml
+E:\Cybersoft\CyberERP_KH\KH_Duoc_VP\Cyberapp9_DuocVP\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.FrmLoad.resources
+E:\Cybersoft\CyberEnterprise9.0\KH_Duoc_VP\Cyberapp9_DuocVP\Cyber.CRM.exe.config
+E:\Cybersoft\CyberEnterprise9.0\KH_Duoc_VP\Cyberapp9_DuocVP\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.exe
+E:\Cybersoft\CyberEnterprise9.0\KH_Duoc_VP\Cyberapp9_DuocVP\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.xml
+E:\Cybersoft\CyberEnterprise9.0\KH_Duoc_VP\Cyberapp9_DuocVP\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.pdb
+E:\WORK\VINPHACO\Cong H3T\CyberApp9\CyberApp9\Cyber.CRM.exe.config
+E:\WORK\VINPHACO\Cong H3T\CyberApp9\CyberApp9\SM\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.exe
+E:\WORK\VINPHACO\Cong H3T\CyberApp9\CyberApp9\SM\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.xml
+E:\WORK\VINPHACO\Cong H3T\CyberApp9\CyberApp9\SM\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.pdb
+E:\WORK\VINPHACO\Cong H3T\CyberApp9\CyberApp9\SM\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.vbprojResolveAssemblyReference.cache
+E:\WORK\VINPHACO\Cong H3T\CyberApp9\CyberApp9\SM\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.FrmLoad.resources
+E:\WORK\VINPHACO\Cong H3T\CyberApp9\CyberApp9\SM\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.Form1.resources
+E:\WORK\VINPHACO\Cong H3T\CyberApp9\CyberApp9\SM\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.Resources.resources
+E:\WORK\VINPHACO\Cong H3T\CyberApp9\CyberApp9\SM\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.vbproj.GenerateResource.Cache
+E:\WORK\VINPHACO\Cong H3T\CyberApp9\CyberApp9\SM\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.exe.licenses
+E:\WORK\VINPHACO\Cong H3T\CyberApp9\CyberApp9\Cyber.CRM.exe
+E:\WORK\VINPHACO\Cong H3T\CyberApp9\CyberApp9\Cyber.CRM.pdb
+E:\WORK\VINPHACO\Cong H3T\CyberApp9\CyberApp9\Cyber.CRM.xml
+E:\WORK\HDTN\Installs_Cyber_Enterprise9.0_Release_2018_06_18\Cyber.CRM.exe.config
+E:\WORK\HDTN\Installs_Cyber_Enterprise9.0_Release_2018_06_18\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.exe
+E:\WORK\HDTN\Installs_Cyber_Enterprise9.0_Release_2018_06_18\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.xml
+E:\WORK\HDTN\Installs_Cyber_Enterprise9.0_Release_2018_06_18\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.pdb
+E:\WORK\HDTN\Installs_Cyber_Enterprise9.0_Release_2018_06_18\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.vbprojResolveAssemblyReference.cache
+E:\WORK\HDTN\Installs_Cyber_Enterprise9.0_Release_2018_06_18\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.FrmLoad.resources
+E:\WORK\HDTN\Installs_Cyber_Enterprise9.0_Release_2018_06_18\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.Form1.resources
+E:\WORK\HDTN\Installs_Cyber_Enterprise9.0_Release_2018_06_18\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.Resources.resources
+E:\WORK\HDTN\Installs_Cyber_Enterprise9.0_Release_2018_06_18\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.vbproj.GenerateResource.Cache
+E:\WORK\HDTN\Installs_Cyber_Enterprise9.0_Release_2018_06_18\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.exe.licenses
+E:\WORK\HDTN\Installs_Cyber_Enterprise9.0_Release_2018_06_18\Cyber.CRM.exe
+E:\WORK\HDTN\Installs_Cyber_Enterprise9.0_Release_2018_06_18\Cyber.CRM.pdb
+E:\WORK\HDTN\Installs_Cyber_Enterprise9.0_Release_2018_06_18\Cyber.CRM.xml
+D:\Customer_New\VinaMotor\Bo_Cai_Dat\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.vbproj.AssemblyReference.cache
+D:\Customer_New\VinaMotor\Bo_Cai_Dat\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.FrmLoad.resources
+D:\Customer_New\VinaMotor\Bo_Cai_Dat\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.Form1.resources
+D:\Customer_New\VinaMotor\Bo_Cai_Dat\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.Resources.resources
+D:\Customer_New\VinaMotor\Bo_Cai_Dat\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.vbproj.GenerateResource.cache
+D:\Customer_New\VinaMotor\Bo_Cai_Dat\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.exe
+D:\Customer_New\VinaMotor\Bo_Cai_Dat\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.xml
+D:\Customer_New\VinaMotor\Bo_Cai_Dat\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.pdb
+D:\Customer_New\VinaMotor\Bo_Cai_Dat\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.vbproj.CoreCompileInputs.cache
+D:\Customer_New\VinaMotor\Bo_Cai_Dat\Sm\Cyber.CRM\Cyber.CRM\obj\x86\Debug\Cyber.CRM.vbproj.CopyComplete
+D:\Customer_New\VinaMotor\Bo_Cai_Dat\Cyber.CRM.exe.config
+D:\Customer_New\VinaMotor\Bo_Cai_Dat\Cyber.CRM.exe
+D:\Customer_New\VinaMotor\Bo_Cai_Dat\Cyber.CRM.pdb
+D:\Customer_New\VinaMotor\Bo_Cai_Dat\Cyber.CRM.xml
